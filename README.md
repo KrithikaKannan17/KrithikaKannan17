@@ -74,7 +74,7 @@ A/B testing & feature flagging platforms
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Technical Arsenal
+## 🔧 Technical Arsenal
 
 <div align="center">
 
@@ -175,7 +175,7 @@ A/B testing & feature flagging platforms
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28px" height="28px" alt="Fire" /> Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
@@ -276,7 +276,7 @@ CNN/ResNet chess bot trained on 100K+ positions via self-play and MCTS with real
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="28px" height="28px" alt="Briefcase" /> Experience
+## 💼 Experience
 
 <table>
 <tr>
@@ -399,7 +399,7 @@ High-performance semantic retrieval
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px"> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
