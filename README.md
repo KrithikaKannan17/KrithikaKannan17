@@ -72,12 +72,6 @@ A/B testing & feature flagging platforms
 
 <br/>
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Technical Arsenal
@@ -256,6 +250,22 @@ Decentralized provenance tracking with NFT-based ownership verification on Inter
 </td>
 <td width="50%" valign="top">
 
+### ♟️ WAGWAN-CROODIE
+**Deep RL Chess Engine**
+
+<div align="left">
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![RL](https://img.shields.io/badge/Deep_RL-8B5CF6?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+<br/>
+
+CNN/ResNet chess bot trained on 100K+ positions via self-play and MCTS with real-time evaluation interface.
+
+</div>
+
 </td>
 </tr>
 </table>
@@ -284,9 +294,9 @@ Decentralized provenance tracking with NFT-based ownership verification on Inter
 
 <br/>
 
-- Built enterprise RPA bots automating financial transaction processing at scale
-- Architected SAP workflow integration & orchestration
-- Led Agile QA testing & regression automation initiatives
+- Developed Blue Prism RPA bots on Service Platform to automate financial transactions and GL entries, integrating workflows with RFT/RFX and SAP systems
+- Executed comprehensive QA and regression testing for automated workflows, identifying defects early and ensuring transaction processing stability
+- Participated in code reviews, deployments, and ticket completion within Agile delivery cycle
 
 </td>
 <td width="33%" valign="top">
@@ -303,9 +313,9 @@ Decentralized provenance tracking with NFT-based ownership verification on Inter
 
 <br/>
 
-- Architected anomaly detection pipelines improving data integrity by **35%**
-- Developed predictive analytics dashboards (Tableau, Power BI)
-- Built NLP-driven threat intelligence automation workflows
+- Engineered automated data validation and anomaly detection pipelines using Python and SQL to identify irregularities in financial datasets, improving data integrity by **35%**
+- Developed predictive analytics and visualization dashboards with Tableau and Power BI, integrating real-time data streams to uncover behavioral patterns and operational trends
+- Engaged with business and technical stakeholders to align NLP-driven threat intelligence features with evolving regulatory requirements
 
 </td>
 <td width="33%" valign="top">
@@ -322,9 +332,9 @@ Decentralized provenance tracking with NFT-based ownership verification on Inter
 
 <br/>
 
-- Provisioned secure AWS infrastructure (EC2, S3, RDS, VPC, IAM)
-- Automated infrastructure hardening with Terraform & Python
-- Implemented cloud security & compliance automation
+- Provisioned and secured AWS infrastructure including EC2, S3, RDS, and VPCs, implementing IAM policies and network security best practices
+- Developed automation scripts using AWS CLI, Python, and Terraform to streamline infrastructure hardening and security compliance tasks
+- Presented analytics insights and threat intelligence findings to business and technical stakeholders, aligning deliverables with regulatory requirements
 
 </td>
 </tr>
@@ -436,9 +446,7 @@ High-performance semantic retrieval
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150">
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="35px"/> Let's Build Something Extraordinary
+### Let's Build Something Extraordinary
 
 <a href="https://www.linkedin.com/in/krithikakannan06/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
